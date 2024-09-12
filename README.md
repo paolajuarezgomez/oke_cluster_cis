@@ -29,4 +29,5 @@ For authenticating against the OCI tenancy Terraform needs the following informa
 
 When you're ready, click the 'Next' button
 
-[![Open in Code Editor](https://raw.githubusercontent.com/oracle-devrel/oci-code-editor-samples/main/images/open-in-code-editor.png)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/paolajuarezgomez/oke_cluster/tree/056057fb3e3f6b8196dd158e66eab92fba07d217/OKE%20TF%20CIS%20Module&cs_branch=main&cs_readme_path=INIT.md&cs_open_ce=false)
+[![Open in Code Editor](https://raw.githubusercontent.com/oracle-devrel/oci-code-editor-samples/main/images/open-in-code-editor.png)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/paolajuarezgomez/oke_cluster_cis.gitbranch=main&cs_readme_path=INIT.md&cs_open_ce=false)
+
