@@ -28,4 +28,4 @@ To Deploy a OKE Cluster ( VCN-native pod networking for OKE CNI ) as a new Dev P
 
 When you're ready, click the 'Next' button
 
-[![Open in Code Editor](https://raw.githubusercontent.com/oracle-devrel/oci-code-editor-samples/main/images/open-in-code-editor.png)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/alcampag/oci-cn-quickstart.git&cs_branch=main&cs_readme_path=INIT.md&cs_open_ce=false)
+[![Open in Code Editor](https://raw.githubusercontent.com/oracle-devrel/oci-code-editor-samples/main/images/open-in-code-editor.png)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/paolajuarezgomez/oke_cluster_cis.git&cs_branch=main&cs_readme_path=INIT.md&cs_open_ce=false)
