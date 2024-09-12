@@ -18,14 +18,6 @@
 ##private_key_password = ""                          # This is the password that protects the private key, if any.
 #region               = "<your tenancy region>"     # The region name.
 
-tenancy_ocid         = "ocid1.tenancy.oc1..aaaaaaaa3lyflh4kaqm25rnbzyurii45kvhmcnjzwhunkc5w4xv5wzrhczcq"
-user_ocid            = "ocid1.user.oc1..aaaaaaaaknxiixcfgzgl4artkch4pijnurepcvlrussuflclm3su2rhtybyq"
-fingerprint          = "e5:a5:d3:a1:64:37:fa:73:9f:99:51:c4:2c:55:fc:7f"
-private_key_path     = "/Users/pjuarez/Desktop/api_keys/oci_api_key.pem"
-private_key_password = ""
-region               = "eu-frankfurt-1"
-
-
 
 #---------------------------------------
 # Input variable
